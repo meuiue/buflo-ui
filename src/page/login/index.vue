@@ -12,8 +12,8 @@
     </div>
     <div class="login-border  animated fadeInRight">
       <div class="login-main">
-        <h4 class="login-title"> 微服务后台管理平台
-          <top-theme></top-theme>
+        <h4 class="login-title"> 综合管理后台
+          <!-- <top-theme></top-theme> -->
         </h4>
         <el-tabs v-model="activeName">
           <el-tab-pane label="用户密码" name="user">

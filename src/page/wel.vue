@@ -32,7 +32,7 @@
             </el-collapse-item>
             <el-collapse-item title="当前版本" name="4">
               <div>基于Spring Cloud Gateway</div>
-              <div>基于Spring Cloud Finchley.SR1</div>
+              <div>基于Spring Cloud Edgware.SR4</div>
               <div>基于Spring Boot 2.0.4.RELEASE</div>
               <div>基于开源LCN 分布式事务解决方案深度定制</div>
             </el-collapse-item>

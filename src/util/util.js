@@ -87,7 +87,7 @@ export const encryption = (params) => {
  * 设置浏览器头部标题
  */
 export const setTitle = function (title) {
-  title = title ? `${title} — 微服务快速开发框架` : '微服务快速开发框架';
+  title = title ? `${title} — 综合管理后台` : '综合管理后台';
   window.document.title = title
 }
 /**
